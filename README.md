@@ -54,6 +54,15 @@ ziplyn decompress <source> <destination>
 ziplyn decompress file.txt.gz file.txt
 ```
 
+## Published Project
+https://crates.io/crates/ziplyn
+
+
+**Install it on your system**: 
+```sh
+cargo install ziplyn
+```
+
 ## Why Ziplyn?
 
 Ziplyn stands out from other compression tools due to its:
